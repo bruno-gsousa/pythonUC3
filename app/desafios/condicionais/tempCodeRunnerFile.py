@@ -1,0 +1,1 @@
+print("Acesso liberado ao sistema.")
