@@ -60,3 +60,4 @@ aluno = Aluno()
 aluno.estudar()
 resposta = input("Você vai estudar hoje")
 aluno.vouEstudar(resposta)
+
